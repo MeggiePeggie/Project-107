@@ -1,0 +1,41 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    background:rgb(0, 90, 163);
+}
+
+.header_div {
+    background: lightcoral;
+    color: red;
+}
+
+.header_div p {
+    font-family: 'Comfortaa', cursive;
+    color:rgb(0, 90, 163);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div {
+    color:rgb(91, 181, 255);
+}
+
+.main_div button {
+    font-family: 'Comfortaa', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_wright_footer {
+    position: fixed;
+    color: lightgrey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: darkgrey;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
